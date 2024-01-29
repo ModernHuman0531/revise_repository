@@ -1,0 +1,1 @@
+- change sensor with class
